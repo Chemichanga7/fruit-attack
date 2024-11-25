@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      sticker (8)_0: 773534815169280610
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
